@@ -1,6 +1,8 @@
 # Dolphin for Raspberry Pi
 
-This repository contains a simple script for compiling the Dolphin Emulator for Raspberry Pi.
+This repository contains a simple script for compiling the Dolphin Emulator top-of-tree for Raspberry Pi.
+
+**Note**. `sudo apt install dolphin-emu` will allow you to install and run Dolphin without needing to compile anything. 
 
 ## How to use
 1. [Download](https://github.com/ravbug/dolphin-rpi/releases/latest) the build script
